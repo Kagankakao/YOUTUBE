@@ -9,7 +9,7 @@ Welcome to the repository for my YouTube channel! 🚀 Here, you'll find the sou
 
 ## 🔗 Follow My Journey on YouTube  
 Don't forget to check out my YouTube channel for detailed explanations and live coding sessions:  
-[👉 Visit My Channel]([https://www.youtube.com/your-channel-link](https://www.youtube.com/@Kegan__))  
+[👉 Visit My Channel]https://www.youtube.com/@Kegan__
 
 ---
 
